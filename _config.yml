@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Dizcarta Game
+email: dizcartagame@gmail.com
+url: https://dizcarta.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+keywords: "Party Game, Jogo de cartas, jogar com amigos, game, game iOS"
+skills: "Um Party Game para jogar com os amigos"
+meta_author: Dizcarta Game
 
 # Google webmaster tools
 google_verify:
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Dizcarta Game Group
+  location: Onde Estamos
+  social: Nossas Redes
+  credits: Criadores
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Brasilia - Distrito Federal
+  - line: Brazil
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Douglas Figueiroa, Felipe Brigagão,Hellen Almeida, Igor Silva, Victor Brito.'
 
 # Build settings
 markdown: kramdown
