@@ -1,0 +1,144 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "title": "Ninguém solta a mão de ninguém",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 3,
+            "dizDescription": "Você deverá ficar de mãos dadas com a pessoa a sua esquerda, enquanto joga.",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "title": "Levanta Soldado!",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 3,
+            "dizDescription": "Você deverá ficar em pé até chegar sua vez.",
+            "type": 1
+        },
+        {
+            "id": 3,
+            "title": "Tá nervoso? Vai pescar!",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 3,
+            "dizDescription": "Imite uma pescaria até chegar sua vez.",
+            "type": 1
+        },
+        {
+            "id": 4,
+            "title": "Doente de Amor",
+            "image": "imageLocal",
+            "winPoints": 4,
+            "losePoints": 4,
+            "dizDescription": "Você deverá escolher uma pessoa para ficar abraçado(a) até chegar sua vez.",
+            "type": 1
+        },
+        {
+            "id": 5,
+            "title": "Saci Pererê",
+            "image": "imageLocal",
+            "winPoints": 2,
+            "losePoints": 2,
+            "dizDescription": "Dê a volta no grupo pulando com uma perna só!",
+            "type": 1
+        },
+        {
+            "id": 6,
+            "title": "As árvores somos nozes!",
+            "image": "imageLocal",
+            "winPoints": 1,
+            "losePoints": 1,
+            "dizDescription": "Você deverá ficar em pé e imitar uma árvore sem poder se mexer e falar até chegar sua vez!",
+            "type": 1
+        },
+        {
+            "id": 7,
+            "title": "Em boca fechada não se entra mosca",
+            "image": "imageLocal",
+            "winPoints": 2,
+            "losePoints": 2,
+            "dizDescription": "Você deverá ficar sem poder falar ou sorrir até chegar sua vez.",
+            "type": 1
+        },
+        {
+            "id": 9,
+            "title": "O gato comeu a sua língua!",
+            "image": "imageLocal",
+            "winPoints": 2,
+            "losePoints": 2,
+            "dizDescription": "Você deverá ficar em silêncio, sem poder falar ou rir até chegar sua vez.",
+            "type": 1
+        },
+        {
+            "id": 10,
+            "title": "Sapo Cururu",
+            "image": "imageLocal",
+            "winPoints": 1,
+            "losePoints": 1,
+            "dizDescription": "Você deverá dar a volta no grupo andando agachado.",
+            "type": 1
+        },
+        {
+            "id": 11,
+            "title": "A felicidade se multiplica...",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 3,
+            "dizDescription": "Você deverá contar ou escolher alguém para contar uma piada.",
+            "type": 1
+        },
+        {
+            "id": 12,
+            "title": "ABCdário",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 3,
+            "dizDescription": "Você deverá falar o alfabeto inteiro cantando!",
+            "type": 1
+        },
+        
+        {
+            "id": 13,
+            "title": "Felicidade só é boa quando é multiplicada!",
+            "image": "imageLocal",
+            "winPoints": 2,
+            "losePoints": 0,
+            "dizDescription": "Parabéns! \n Você acaba de ganhar 2 pontos! ",
+            "type": 2
+        },
+        {
+            "id": 14,
+            "title": "Dois é bom, três é demais!",
+            "image": "imageLocal",
+            "winPoints": 3,
+            "losePoints": 0,
+            "dizDescription": "Eba! \nVocê acaba de ganhar 3 pontos!",
+            "type": 2
+        },
+        {
+            "id": 15,
+            "title": "Caiu do Cavalo!",
+            "image": "imageLocal",
+            "winPoints": 0,
+            "losePoints": 3,
+            "dizDescription": "Você caiu do cavalo e tomou um coice, hein. \n Perdeu 3 pontos! ",
+            "type": 3
+        },
+        {
+            "id": 16,
+            "title": "Ouro de Tolo! ",
+            "image": "imageLocal",
+            "winPoints": 0,
+            "losePoints": 2,
+            "dizDescription": "Você acaba de perder \n 2 pontos!",
+            "type": 3
+        },
+        
+        
+        
+    ]
+}
+
